@@ -1,3 +1,3 @@
 # data-csv
-This repositories contains some data in csv format . Frequent update/files will be added here.
+This repositories contains  dataset which are frequently used in building machine learning, deep learning , computer vision project work . Frequent update/files will be added here.
 Credit for the dataset- Online websites and Kaggle
