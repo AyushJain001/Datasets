@@ -1,7 +1,7 @@
 # data-csv
 This repositories contains  dataset which are frequently used in building machine learning, deep learning , computer vision project work . 
 
-Frequent update/files will be added here.
+Frequent update on data are done. All data are in csv format.
 Credit -  Online websites and Kaggle
 Use these data to train your model
 
